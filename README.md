@@ -1,4 +1,4 @@
-# ♻️ Garbage Classifier
+# ♻️ Project WALL-E (Waste Classifier)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Framework](https://img.shields.io/badge/Framework-TensorFlow%20%7C%20PyTorch-orange)
